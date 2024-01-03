@@ -1,3 +1,5 @@
+'use strict';
+
 function showFeature(featureNumber) {
   const descriptions = document.querySelectorAll('.materials__description');
 
